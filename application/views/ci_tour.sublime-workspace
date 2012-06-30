@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"url",
+				"urldecode"
+			],
+			[
+				"ID",
+				"IDEquipo"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"form",
+				"form_validation"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"eQUI",
+				"Equipos"
+			],
+			[
+				"id",
+				"idtorneo"
+			],
+			[
+				"get_torneo",
+				"get_torneos_equipo"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"equipos",
+				"equipos"
+			],
+			[
+				"eq",
+				"validar_equipo_unico"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"redi",
+				"redirect"
+			],
+			[
+				"Add",
+				"add_miga"
+			],
+			[
+				"miga",
+				"migas"
+			],
+			[
+				"eqi",
+				"equipo"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"s",
+				"switch	switch …"
+			],
+			[
+				"tr",
+				"tr	Tag"
+			],
+			[
+				"DE",
+				"DetallePartido"
+			],
+			[
+				"i",
+				"ifelse	if … else …"
+			],
+			[
+				"TD",
+				"td"
+			],
+			[
+				"No",
+				"NomEquipo"
+			],
+			[
+				"equi",
+				"equipo"
+			],
+			[
+				"p",
+				"partido"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"par",
+				"partido"
+			],
+			[
+				"parti",
+				"partido"
+			],
+			[
+				"get_",
+				"get_torneo"
+			],
+			[
+				"EQ",
+				"Equipos_model"
+			],
+			[
+				"equip",
+				"equipos"
+			],
+			[
+				"Deta",
+				"DetallePartido"
+			],
+			[
+				"IDA",
+				"idpartido"
+			],
+			[
+				"pa",
+				"partido"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"To",
+				"Torneos"
+			],
+			[
+				"Tor",
+				"Torneos_model"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"gete",
+				"get_equipo"
+			],
+			[
+				"model",
+				"Equipos_model"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"equipo",
+				"equipo"
+			],
+			[
+				"close",
+				"close"
+			],
+			[
+				"ur",
+				"urldecode"
+			],
+			[
+				"can",
+				"cancha"
+			],
+			[
+				"to",
+				"torneos"
+			],
+			[
+				"equ",
+				"equipo"
+			],
+			[
+				"e",
+				"equipo"
+			],
+			[
+				"mig",
+				"miga"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"cla",
+				"clase"
+			],
+			[
+				"ca",
+				"class	class …"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"mi",
+				"migas"
+			],
+			[
+				"acti",
+				"active_class"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"parent",
+				"parent"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"private",
+				"openssl_private_decrypt"
+			],
+			[
+				"add",
+				"add_miga"
+			],
+			[
+				"migas",
+				"migas"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/srv/http/lupe/application/controllers/inicio.php",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Unix",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "pagina.php",
+			"settings":
+			{
+				"buffer_size": 580,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/srv/http/lupe/application/config/routes.php",
+			"settings":
+			{
+				"buffer_size": 1542,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Class"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/srv/http/lupe/application/views/pagina.html",
+		"/srv/http/lupe/application/controllers/welcome.php",
+		"/srv/http/doctrine/application/config/database.php",
+		"/srv/http/doctrine/application/config/autoload.php",
+		"/srv/http/controlplus/trunk/application/controllers/equipos.php",
+		"/srv/http/controlplus/trunk/application/models/equipos_model.php",
+		"/srv/http/controlplus/trunk/application/models/torneos_model.php",
+		"/srv/http/controlplus/trunk/application/controllers/usuarios.php",
+		"/srv/http/laravel/application/models/usuario.php",
+		"/srv/http/controlplus/trunk/application/controllers/inicio.php",
+		"/srv/http/controlplus/trunk/application/controllers/inconsistencias.php",
+		"/srv/http/laravel/application/models/equipo.php",
+		"/srv/http/laravel/application/controllers/home.php",
+		"/srv/http/controlplus/trunk/application/views/equipos/view_equipo_detalle.php",
+		"/srv/http/controlplus/trunk/application/views/equipos/view_frmequipo.php",
+		"/srv/http/controlplus/trunk/application/views/equipos/view_enrolar_equipo.php",
+		"/srv/http/controlplus/trunk/application/libraries/Migas.php",
+		"/srv/http/controlplus/trunk/application/controllers/ajax.php",
+		"/srv/http/controlplus/trunk/application/views/general/view_panel.php",
+		"/srv/http/controlplus/trunk/application/config/config.php",
+		"/srv/http/controlplus/trunk/application/controllers/exportar.php",
+		"/srv/http/controlplus/trunk/application/controllers/reportes.php",
+		"/home/jmanuel/.gvfs/SFTP para josema en 192.168.1.112/var/www/controlplus/trunk/application/models/torneos_model.php",
+		"/home/jmanuel/.gvfs/SFTP para josema en 192.168.1.112/var/www/controlplus/trunk/application/controllers/inconsistencias.php",
+		"/srv/http/controlplus/trunk/.htttpaccess",
+		"/srv/http/controlplus/trunk/application/.htaccess",
+		"/srv/http/controlplus/trunk/system/.htaccess",
+		"/srv/http/controlplus/trunk/resources/script/reportes.js",
+		"/srv/http/controlplus/trunk/application/controllers/catalogos.php",
+		"/srv/http/controlplus/trunk/application/libraries/Tables.php",
+		"/home/jmanuel/.conkyrc",
+		"/srv/http/drupal/sites/all/themes/cesbatheme/template.php",
+		"/srv/http/controlplus/trunk/application/controllers/login.php",
+		"/srv/http/controlplus/trunk/application/views/general/view_header.php",
+		"/srv/http/controlplus/trunk/application/controllers/canchas.php",
+		"/srv/http/controlplus/trunk/application/controllers/torneos.php",
+		"/srv/http/drupal/sites/all/themes/cesbatheme/cesbatheme.info",
+		"/srv/http/drupal/sites/all/themes/cesbatheme/theme-settings.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enrolar",
+			"$equipo",
+			"$data = array();",
+			"'] = '';",
+			"RewriteEngine",
+			"');",
+			"rutas"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$team"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/srv/http/lupe/application/controllers/inicio.php",
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pagina.php",
+					"settings":
+					{
+						"buffer_size": 580,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								549,
+								549
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 15.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/srv/http/lupe/application/config/routes.php",
+					"settings":
+					{
+						"buffer_size": 1542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1432,
+								1432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false
+}
