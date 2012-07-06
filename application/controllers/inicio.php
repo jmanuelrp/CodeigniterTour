@@ -21,7 +21,7 @@ class Inicio extends CI_Controller
 	{
 		$data['titulo'] = 'Mi titulo';
 		$data['dato'] = urldecode($this->uri->segment(4));
-		$this->load->view('pagina',$data);
+		print_r($data);
 	}
 
 	function formulario()
@@ -36,7 +36,7 @@ class Inicio extends CI_Controller
 		$data['formulario'] = array(
 			'title'=>'Links',
 			'action'=>'receptor',
-			'attrs'=>'class="form-horizontal"',
+			'attrs'=>'class="form-horizontal" id="formulario"',
 			'fields'=>array(
 				array(
 					'type'=>'input',
@@ -46,11 +46,11 @@ class Inicio extends CI_Controller
 				array(
 					'type'=>'input',
 					'name'=>'Enlace',
-					'attrs'=>array('name'=>'titulo','id'=>'titulo','class'=>'input-large')
+					'attrs'=>array('name'=>'enlace','id'=>'enlace','class'=>'input-large')
 				)
 			),
 			'buttons'=>array(
-				array('type'=>'button','class'=>'btn btn-large btn-success','content'=>'Enviar')
+				array('type'=>'button','class'=>'btn btn-large btn-success','content'=>'Enviar','id'=>'send-info')
 			)
 		);
 

@@ -1,0 +1,50 @@
+.container {
+	background-color: #ddd;
+	box-shadow: 0px 0px 50px 50px #ddd;
+	border-radius: 50px;
+}
+
+.page-header,
+#main-content legend {
+	color: #222;
+	text-shadow: 0px 2px 3px #555;
+}
+
+#main-content .form-actions {
+	background-color: #ddd;
+}
+
+#main-content legend {
+	padding-left: 10px;
+}
+
+#main-menu li:hover {
+	-webkit-transform: rotate(15deg);
+}
+
+#main-menu li {
+	-webkit-transition: all 2s;
+}
+
+#main-menu li.active a {
+	background-color: #ddd;
+}
+
+label,
+#main-menu li.active a {
+	font-weight: bold;
+	color: #DA4F49;
+}
+
+#main-menu li.active:hover a {
+	background-color: #eee;
+}
+
+fieldset {
+	padding-left: 5px;
+}
+
+#main-content,
+#main-menu {
+	box-shadow: -8px 0px 15px -10px #000;
+}

@@ -7,6 +7,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php echo $this->config->base_url('resources/css/bootstrap-responsive.css'); ?>">
 	<link rel="stylesheet" type="text/css" href="<?php echo $this->config->base_url('resources/css/formulario.css'); ?>">
 	<script type="text/javascript" src="<?php echo $this->config->base_url('resources/js/jquery-1.7.2.min.js'); ?>"></script>
+	<script type="text/javascript" src="<?php echo $this->config->base_url('resources/js/bootstrap-alert.js'); ?>"></script>
 	<script type="text/javascript" src="<?php echo $this->config->base_url('resources/js/formulario.js'); ?>"></script>
 </head>
 <body>
@@ -30,7 +31,7 @@
 				<div class="span<?php echo $width_menu; ?>">
 					<nav>
 						<ul class="nav nav-pills nav-stacked" id="main-menu"> 
-							<li class="nav-header">Menu</li> <?php 
+							<li class="nav-header">Menu Principal</li> <?php 
 							foreach ($main_menu as $item)
 							{
 								echo '<li>'.anchor($item['link'],$item['title']).'</li>';
