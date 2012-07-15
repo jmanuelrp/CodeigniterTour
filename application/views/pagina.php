@@ -48,8 +48,16 @@
 						foreach ($formulario['fields'] as $field): ?>
 							<div class="control-group">
 								<?php echo form_label($field['name'],$field['attrs']['name'],array('class'=>'control-label')); ?>
-								<div class="controls">
-									<?php echo form_input($field['attrs']); ?>
+								<div class="controls"> <?php
+									switch ($field['type']) 
+									{
+										case 'input':
+										case 'password':
+										case 'date':
+										case 'datetime':
+											form_input($field['attrs']);
+											break;
+									}?>
 								</div>
 							</div> <?php 
 						endforeach; ?>
